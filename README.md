@@ -385,17 +385,14 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack, React.js, TypeS
 ---
 
 <div align="center">
+  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+  <!-- APJ Abdul Kalam Quote -->
+  <br><br>
+  <img src="https://img.shields.io/badge/%22Dream,%20dream,%20dream.%20Dreams%20transform%20into%20thoughts%20and%20thoughts%20result%20in%20action.%22-Dr.%20A.P.J.%20Abdul%20Kalam-blueviolet?style=for-the-badge&logo=quote&logoColor=white" alt="APJ Abdul Kalam Quote"/>
 </div>
 
----
-
-<div align="center">
-  <blockquote style="font-size: 1.2rem; font-style: italic; color: #00E6E6; border-left: 4px solid #7928CA; padding: 10px 20px; background: linear-gradient(90deg, #0D1117, #1A1A2E); border-radius: 10px;">
-    “Dream is not that which you see while sleeping, it is something that does not let you sleep.”  
-    <br>— <strong>Dr. A.P.J. Abdul Kalam</strong>
-  </blockquote>
-</div>
 
 
 ---
