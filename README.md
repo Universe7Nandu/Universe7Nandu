@@ -391,28 +391,16 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack, React.js, TypeS
 ---
 
 <div align="center">
-  <h4>⚡ Coding Animation ⚡</h4>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+  <blockquote style="font-size: 1.2rem; font-style: italic; color: #00E6E6; border-left: 4px solid #7928CA; padding: 10px 20px; background: linear-gradient(90deg, #0D1117, #1A1A2E); border-radius: 10px;">
+    “Dream is not that which you see while sleeping, it is something that does not let you sleep.”  
+    <br>— <strong>Dr. A.P.J. Abdul Kalam</strong>
+  </blockquote>
 </div>
+
 
 ---
 
 <div align="center">
   <p><strong>💻 Made with ❤️ by Nandesh Kalashetti</strong></p>
   <p><em>🚀 Always learning, always growing, always coding!</em></p>
-</div>## Hi there 👋
-
-<!--
-**Universe7Nandu/Universe7Nandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
