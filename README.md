@@ -1,85 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Nandesh!&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nandesh+Kalashetti;Full-Stack+Developer;Generative+AI+Enthusiast;Math+%2B+Code+Wizard" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=&fontSize=0&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/nandesh-kalashetti-333a78250/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://nandeshprofile.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_World-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.youtube.com/@Nandesh25/videos" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-Watch_My_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="mailto:nandeshkalshetti1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
-<div align="center">
+<br />
 
-### 🚀 Full-Stack Developer | 🤖 Generative AI Specialist | 🌐 Web 3.0 Enthusiast
+## ⚡ About Me
 
-<p align="center">
-  <a href="https://nandeshprofile.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7025E8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nandesh-kalashetti-333a78250/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Nandesh25/videos">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:nandeshkalshetti1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm an engineer who loves the intersection of **Mathematics**, **3D Web**, and **Artificial Intelligence**. 
+
+[cite_start]I recently graduated with a **B.Tech in IT** (CGPA 8.88/10)[cite: 17, 19], but my real education happened while building projects. I don't just write code; I build solutions that *solve problems*—like helping students visualize complex math or creating AI agents that can "see" and solve equations.
+
+* 🔭 I’m currently working on **Advanced RAG Architectures** & **3D Web Apps**.
+* 🌱 I’m deep-diving into **LLaMA 3** and **GenAI Integration**.
+* [cite_start]🎓 **Alumni:** Walchand Institute of Technology (Solapur)[cite: 17].
+* [cite_start]🌍 **Location:** Solapur, Maharashtra, India[cite: 9].
 
 ---
 
-### 👨‍💻 About Me
-
-I am a results-driven **Software Engineer** based in Solapur, India, with a passion for merging **Generative AI** with modern web technologies. I graduated with a **B.Tech in Information Technology** (CGPA: 8.88 / German Grade: 1.5). 
-
-My specialty lies in building intelligent, scalable applications using **React.js**, **TypeScript**, and **LLMs (LLaMA 3)**. I love solving real-world problems through code, whether it's creating 3D interactive learning platforms or advanced RAG chatbots.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| **Frontend** | **Backend & Database** | **AI & ML** | **Tools & Others** |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![GenAI](https://img.shields.io/badge/Generative%20AI-4B32C3?style=flat&logo=openai&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) |
-| ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) | ![LLaMA 3](https://img.shields.io/badge/LLaMA%203-0467DF?style=flat&logo=meta&logoColor=white) | ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white) |
-
----
-
-### 🏆 Featured Projects
-
-#### 🧮 [MathNexus - Interactive Learning Platform](https://math-nexus-app.vercel.app/)
-> *React, TypeScript, Three.js*
-An immersive 3D educational platform that simplifies complex math concepts.
-* **Features:** Secure auth, personalized progress tracking, and gamified modules.
-* **Tech:** Utilizes Three.js for 3D visualizations.
-
-#### 🤖 [Math Assistant AI](https://www.youtube.com/watch?v=Na4wEELdA4w)
-> *Generative AI, OCR, LaTeX*
-An advanced AI utility engineered to solve complex mathematical problems instantly.
-* **Features:** Image upload capability, step-by-step solutions, and LaTeX integration for precise symbol rendering.
-* **Impact:** High-precision engineering for real-time applications.
-
----
-
-### 💼 Professional Experience
-
-**Generative AI Developer (Intern)** | *HiDevs Company*
-*Feb 2025 - May 2025*
-* Engineered and deployed **Smart Math Assistant** and **RAG Chatbots**.
-* Leveraged **LLaMA 3** models and deployed production-ready tools via Streamlit.
-
-**Software Developer (Intern)** | *Katare Informatics*
-*Apr 2023 - Oct 2023*
-* Managed full web development cycles using **PHP** and **MySQL**.
-* Launched **ActivityHub** (EduTech) and a responsive E-Cart platform.
-
----
-
-### 📈 GitHub Stats
+## 🛠️ The Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,php,html,css" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,threejs,git,github,vscode,stackoverflow" />
+  <br />
+  <p><b>Special Powers:</b> Generative AI • LLaMA 3 • RAG Pipelines • LaTeX Integration</p>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🏆 **MathNexus** | 🤖 **Math Assistant AI** |
+|:---:|:---:|
+| **Interactive 3D Learning Platform** | **GenAI Problem Solver** |
+| *Immersive math visualization using React & Three.js.* | *Solves math from images using OCR & LLaMA 3.* |
+| `React` `TypeScript` `Three.js` | `Python` `GenAI` `LaTeX` |
+| [🔴 Live Demo](https://math-nexus-app.vercel.app/) | [🎥 Watch Video](https://www.youtube.com/watch?v=Na4wEELdA4w) |
+
+---
+
+## 💼 Professional Timeline
+
+### **Generative AI Developer (Intern)**
+**HiDevs Company** | [cite_start]*Feb 2025 - May 2025* [cite: 41]
+> 🧠 Engineered intelligent systems using **LLaMA 3**. Built a **Smart Math Assistant** and deployed **RAG Chatbots** using Streamlit. Turned raw AI models into production-ready tools.
+
+### **Software Developer**
+**Katare Informatics** | [cite_start]*Apr 2023 - Oct 2023* [cite: 46]
+> 💻 Owned the full web lifecycle. Built **ActivityHub** (a gamified EduTech platform) and responsive E-Commerce sites using **PHP/MySQL**.
+
+---
+
+<div align="center">
+  <h2>📊 Coding Activity</h2>
+  
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlign=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
