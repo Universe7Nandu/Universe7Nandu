@@ -1,89 +1,102 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nandesh+Kalashetti;Full-Stack+Developer;Generative+AI+Enthusiast;Math+%2B+Code+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=ARCHITECTING+INTELLIGENCE;FULL-STACK+%2B+GEN+AI;RANKED+%231+DEV+@+HIDEVS" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=&fontSize=0&animation=fadeIn&fontColor=ffffff" width="100%"/>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header&text=&fontSize=0&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/nandesh-kalashetti-333a78250/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://nandeshprofile.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_My_World-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://www.youtube.com/@Nandesh25/videos" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-Watch_My_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
-    <a href="mailto:nandeshkalshetti1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-</div>
-
-<br />
-
-## ⚡ About Me
-
-I'm an engineer who loves the intersection of **Mathematics**, **3D Web**, and **Artificial Intelligence**. 
-
-[cite_start]I recently graduated with a **B.Tech in IT** (CGPA 8.88/10)[cite: 17, 19], but my real education happened while building projects. I don't just write code; I build solutions that *solve problems*—like helping students visualize complex math or creating AI agents that can "see" and solve equations.
-
-* 🔭 I’m currently working on **Advanced RAG Architectures** & **3D Web Apps**.
-* 🌱 I’m deep-diving into **LLaMA 3** and **GenAI Integration**.
-* [cite_start]🎓 **Alumni:** Walchand Institute of Technology (Solapur)[cite: 17].
-* [cite_start]🌍 **Location:** Solapur, Maharashtra, India[cite: 9].
-
----
-
-## 🛠️ The Arsenal
-
-<div align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,php,html,css" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,threejs,git,github,vscode,stackoverflow" />
-  <br />
-  <p><b>Special Powers:</b> Generative AI • LLaMA 3 • RAG Pipelines • LaTeX Integration</p>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| 🏆 **MathNexus** | 🤖 **Math Assistant AI** |
-|:---:|:---:|
-| **Interactive 3D Learning Platform** | **GenAI Problem Solver** |
-| *Immersive math visualization using React & Three.js.* | *Solves math from images using OCR & LLaMA 3.* |
-| `React` `TypeScript` `Three.js` | `Python` `GenAI` `LaTeX` |
-| [🔴 Live Demo](https://math-nexus-app.vercel.app/) | [🎥 Watch Video](https://www.youtube.com/watch?v=Na4wEELdA4w) |
-
----
-
-## 💼 Professional Timeline
-
-### **Generative AI Developer (Intern)**
-**HiDevs Company** | [cite_start]*Feb 2025 - May 2025* [cite: 41]
-> 🧠 Engineered intelligent systems using **LLaMA 3**. Built a **Smart Math Assistant** and deployed **RAG Chatbots** using Streamlit. Turned raw AI models into production-ready tools.
-
-### **Software Developer**
-**Katare Informatics** | [cite_start]*Apr 2023 - Oct 2023* [cite: 46]
-> 💻 Owned the full web lifecycle. Built **ActivityHub** (a gamified EduTech platform) and responsive E-Commerce sites using **PHP/MySQL**.
-
----
-
-<div align="center">
-  <h2>📊 Coding Activity</h2>
+  <a href="https://app.hidevs.xyz/profile/nandeshkalshetti1">
+    <img src="https://img.shields.io/badge/HiDevs_Global_Rank-%F0%9F%8F%86_#1-FFD700?style=for-the-badge&labelColor=black&logoColor=yellow&logo=iot" alt="Rank 1 Badge" height="35"/>
+  </a>
   
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/nandesh-kalashetti-333a78250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nandeshprofile.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://app.hidevs.xyz/profile/nandeshkalshetti1" target="_blank">
+    <img src="https://img.shields.io/badge/HiDevs_Profile-7B2CBF?style=for-the-badge&logo=hackerone&logoColor=white" />
   </a>
 </div>
 
-<br />
+---
+
+### ⚡ The "10x Engineer" Mindset
+
+I don't just write code; I engineer **intelligence**. 
+
+Currently **Ranked #1 on the HiDevs Leaderboard**, I specialize in merging complex **Mathematics** with **Generative AI**. My goal isn't just to build apps—it's to build systems that *think*. From 3D educational universes to AI agents that solve calculus, I ship production-ready code that pushes boundaries.
+
+* 🎯 **Core Focus:** Advanced RAG Architectures & LLaMA 3 Integration.
+* 🏆 **Achievement:** Top Performer at HiDevs (Experience Points Leader).
+* 🚀 **Mission:** Making AI accessible, visual, and infinitely scalable.
+
+---
+
+### ⚔️ Tech Arsenal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="45" /><br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=ts" width="45" /><br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" /><br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=php" width="45" /><br>PHP
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=threejs" width="45" /><br>Three.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" /><br>MySQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design-blue?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-green?style=flat-square&logo=geocaching&logoColor=white" />
+</div>
+
+---
+
+### 💎 Featured Masterpieces
+
+| <div align="center">🧮 <b>MathNexus</b><br/><i>The 3D Learning Universe</i></div> | <div align="center">🤖 <b>Math Assistant AI</b><br/><i>The Vision Solver</i></div> |
+| :--- | :--- |
+| <div align="center"><a href="https://math-nexus-app.vercel.app/"><img src="https://api.microlink.io?url=https://math-nexus-app.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="MathNexus Preview"/></a></div> | <div align="center"><a href="https://www.youtube.com/watch?v=Na4wEELdA4w"><img src="https://img.youtube.com/vi/Na4wEELdA4w/0.jpg" width="100%" alt="AI Video"/></a></div> |
+| • **Tech:** React, Three.js, TypeScript<br/>• **Vibe:** Gamified 3D Environment<br/>• **Impact:** Makes complex math visual and fun. | • **Tech:** Python, LLaMA 3, LaTeX, OCR<br/>• **Vibe:** "Magic" Image-to-Solution<br/>• **Impact:** Solves handwritten equations instantly. |
+| <div align="center"><a href="https://math-nexus-app.vercel.app/"><img src="https://img.shields.io/badge/Play_Demo-00C853?style=for-the-badge&logo=google-play&logoColor=white"/></a></div> | <div align="center"><a href="https://www.youtube.com/watch?v=Na4wEELdA4w"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></div> |
+
+---
+
+### 📜 Verified Experience & Certifications
+
+| **Role & Company** | **Key Achievements** | **Proof** |
+| :--- | :--- | :---: |
+| **Generative AI Developer**<br/>*HiDevs Company (Feb '25 - May '25)* | • **Ranked #1** on Company Leaderboard.<br/>• Built Smart Math Assistants & RAG Chatbots.<br/>• Mastered LLaMA 3 & Streamlit deployment. | [View Cert](./hidevs.jpg) |
+| **Software Developer (Intern)**<br/>*Katare Informatics (Apr '23 - Oct '23)* | • **Grade A+** Performance Award.<br/>• Built "ActivityHub" (EduTech) & E-Cart platforms.<br/>• Full lifecycle PHP/MySQL development. | [View Cert](./katare.jpg) |
+
+---
+
+### 📊 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Universe7Nandu&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=000000" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Universe7Nandu&layout=compact&theme=midnight-owl&hide_border=true&bg_color=000000" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Let's%20Build%20The%20Impossible&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
